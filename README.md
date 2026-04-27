@@ -19,4 +19,5 @@ Para el correcto funcionamiento y validación del sistema, se han implementado l
 
 ## Informe Técnico y Documentación
 Toda la documentación formal, el análisis técnico detallado, los diagramas de estructura y las pruebas de rendimiento se encuentran detallados en el informe subimos en el GitHub y en moodle
+* **[Descargar Informe Técnico PDF](./Informe_Estructuras_ArbolBST.pdf)**
 
