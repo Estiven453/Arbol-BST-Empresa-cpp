@@ -18,5 +18,5 @@ Para el correcto funcionamiento y validación del sistema, se han implementado l
 4. **Interactividad:** Interfaz de consola mediante menús dinámicos y validación de entrada de datos.
 
 ## Informe Técnico y Documentación
-Toda la documentación formal, el análisis técnico detallado, los diagramas de estructura y las pruebas de rendimiento se encuentran detallados en el informe
+Toda la documentación formal, el análisis técnico detallado, los diagramas de estructura y las pruebas de rendimiento se encuentran detallados en el informe subimos en el GitHub y en moodle
 
